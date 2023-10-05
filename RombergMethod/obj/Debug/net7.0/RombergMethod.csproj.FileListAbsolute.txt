@@ -1,0 +1,15 @@
+/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/ComputerModelingLab1/RombergMethod/bin/Debug/net7.0/RombergMethod
+/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/ComputerModelingLab1/RombergMethod/bin/Debug/net7.0/RombergMethod.deps.json
+/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/ComputerModelingLab1/RombergMethod/bin/Debug/net7.0/RombergMethod.runtimeconfig.json
+/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/ComputerModelingLab1/RombergMethod/bin/Debug/net7.0/RombergMethod.dll
+/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/ComputerModelingLab1/RombergMethod/bin/Debug/net7.0/RombergMethod.pdb
+/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/ComputerModelingLab1/RombergMethod/obj/Debug/net7.0/RombergMethod.csproj.AssemblyReference.cache
+/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/ComputerModelingLab1/RombergMethod/obj/Debug/net7.0/RombergMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/ComputerModelingLab1/RombergMethod/obj/Debug/net7.0/RombergMethod.AssemblyInfoInputs.cache
+/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/ComputerModelingLab1/RombergMethod/obj/Debug/net7.0/RombergMethod.AssemblyInfo.cs
+/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/ComputerModelingLab1/RombergMethod/obj/Debug/net7.0/RombergMethod.csproj.CoreCompileInputs.cache
+/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/ComputerModelingLab1/RombergMethod/obj/Debug/net7.0/RombergMethod.dll
+/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/ComputerModelingLab1/RombergMethod/obj/Debug/net7.0/refint/RombergMethod.dll
+/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/ComputerModelingLab1/RombergMethod/obj/Debug/net7.0/RombergMethod.pdb
+/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/ComputerModelingLab1/RombergMethod/obj/Debug/net7.0/RombergMethod.genruntimeconfig.cache
+/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/ComputerModelingLab1/RombergMethod/obj/Debug/net7.0/ref/RombergMethod.dll

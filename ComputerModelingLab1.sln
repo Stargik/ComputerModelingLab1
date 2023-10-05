@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrapezoidMethod", "TrapezoidMethod\TrapezoidMethod.csproj", "{1641D415-9B5F-490B-9113-2CCADA241672}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RombergMethod", "RombergMethod\RombergMethod.csproj", "{B79E0FE0-A515-4A15-9981-6289FFCC2763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1641D415-9B5F-490B-9113-2CCADA241672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1641D415-9B5F-490B-9113-2CCADA241672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1641D415-9B5F-490B-9113-2CCADA241672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1641D415-9B5F-490B-9113-2CCADA241672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B79E0FE0-A515-4A15-9981-6289FFCC2763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B79E0FE0-A515-4A15-9981-6289FFCC2763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B79E0FE0-A515-4A15-9981-6289FFCC2763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B79E0FE0-A515-4A15-9981-6289FFCC2763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB93C327-2B49-4C1B-9FD4-26422E1B2A16}
+	EndGlobalSection
+EndGlobal
